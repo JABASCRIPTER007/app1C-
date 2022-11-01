@@ -1,0 +1,54 @@
+C:\Users\volod\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.exe
+C:\Users\volod\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.deps.json
+C:\Users\volod\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\volod\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.dev.json
+C:\Users\volod\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.dll
+C:\Users\volod\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\ref\WinFormsApp3.dll
+C:\Users\volod\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.pdb
+C:\Users\volod\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+C:\Users\volod\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Form1.resources
+C:\Users\volod\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\volod\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volod\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\volod\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\volod\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\volod\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.dll
+C:\Users\volod\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\ref\WinFormsApp3.dll
+C:\Users\volod\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.pdb
+C:\Users\volod\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.genruntimeconfig.cache
+C:\Users\Vlad\Desktop\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.exe
+C:\Users\Vlad\Desktop\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.deps.json
+C:\Users\Vlad\Desktop\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\Vlad\Desktop\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.dev.json
+C:\Users\Vlad\Desktop\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.dll
+C:\Users\Vlad\Desktop\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\ref\WinFormsApp3.dll
+C:\Users\Vlad\Desktop\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.pdb
+C:\Users\Vlad\Desktop\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+C:\Users\Vlad\Desktop\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Form1.resources
+C:\Users\Vlad\Desktop\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\Vlad\Desktop\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\Desktop\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\Vlad\Desktop\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\Vlad\Desktop\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.dll
+C:\Users\Vlad\Desktop\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\ref\WinFormsApp3.dll
+C:\Users\Vlad\Desktop\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.pdb
+C:\Users\Vlad\Desktop\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.genruntimeconfig.cache
+C:\Users\volod\OneDrive\Рабочий стол\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.exe
+C:\Users\volod\OneDrive\Рабочий стол\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.deps.json
+C:\Users\volod\OneDrive\Рабочий стол\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\volod\OneDrive\Рабочий стол\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.dev.json
+C:\Users\volod\OneDrive\Рабочий стол\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.dll
+C:\Users\volod\OneDrive\Рабочий стол\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\ref\WinFormsApp3.dll
+C:\Users\volod\OneDrive\Рабочий стол\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.pdb
+C:\Users\volod\OneDrive\Рабочий стол\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+C:\Users\volod\OneDrive\Рабочий стол\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Form1.resources
+C:\Users\volod\OneDrive\Рабочий стол\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\volod\OneDrive\Рабочий стол\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volod\OneDrive\Рабочий стол\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\volod\OneDrive\Рабочий стол\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\volod\OneDrive\Рабочий стол\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\volod\OneDrive\Рабочий стол\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.dll
+C:\Users\volod\OneDrive\Рабочий стол\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\ref\WinFormsApp3.dll
+C:\Users\volod\OneDrive\Рабочий стол\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.pdb
+C:\Users\volod\OneDrive\Рабочий стол\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.genruntimeconfig.cache
